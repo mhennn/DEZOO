@@ -28,3 +28,10 @@ This project follows semantic versioning.
 - Fixed pyproject.toml to include the media wav file
 
 ---
+
+## [1.1.2] - 2026-05-27
+### Added
+- Add available sounds on readme
+- Add cat sounds
+
+---
