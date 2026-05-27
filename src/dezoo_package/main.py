@@ -1,6 +1,6 @@
 import simpleaudio as sa
 
-class DemalSystem:
+class DezooSystem:
     def __init__(self):
         pass
 

@@ -1,4 +1,4 @@
-# DEMAL - Python Package
+# DEZOO - Python Package
 ---
 All notable changes to this project will be documented in this file.
 This project follows semantic versioning.
@@ -9,7 +9,7 @@ This project follows semantic versioning.
 - Additional animal sounds
 
 ## [1.0.0] - 2026-05-27
-- Initial released of DEMAL
+- Initial released of DEZOO
 - Animal sound for debugging program
 - Different animals sounds included
 - Pypi Package Distribution

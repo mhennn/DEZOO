@@ -1,11 +1,11 @@
-# DEMAL
+# DEZOO
 Turn boring print() debugging into something fun — hear animals instead of reading logs.
 
-DEMAL is a lightweight Python package that replaces traditional debugging prints with animal sounds. Instead of staring at logs, you’ll hear your program speak through playful audio cues.
+DEZOO is a lightweight Python package that replaces traditional debugging prints with animal sounds. Instead of staring at logs, you’ll hear your program speak through playful audio cues.
 
-### 🎯 Why DEMAL?
+### 🎯 Why DEZOO?
 
-Debugging can get repetitive and dull. DEMAL makes it:
+Debugging can get repetitive and dull. DEZOO makes it:
 - 🎧 Auditory instead of visual
 - 🐶 Fun and memorable
 - ⚡ Fast to integrate
@@ -20,13 +20,13 @@ Debugging can get repetitive and dull. DEMAL makes it:
 
 #### Installation
 ```bash
-pip install demal
+pip install dezoo
 ```
 
 #### Testing the package
 ```bash
-from demal_package import DemalSystem
+from dezoo_package import DezooSystem
 
-demal_system = DemalSystem()
+demal_system = DezooSystem()
 demal_system.debug_birds()
 ```

@@ -1,4 +1,4 @@
-from demal_package import DemalSystem
+from dezoo_package import DezooSystem
 
-demal_system = DemalSystem()
+demal_system = DezooSystem()
 demal_system.debug_birds()

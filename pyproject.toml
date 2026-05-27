@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "demal"
+name = "dezoo"
 version = "1.0.0"
 description = "Package that keeps your debugging error FUN"
 readme = "README.md"
@@ -15,15 +15,16 @@ license-files = ["LICENSE"]
 dependencies = [
     "simpleaudio"
 ]
-keywords = ["demal", "debugging", "animal", "sound", "effects", "sound effects", "sound-effects"]
+keywords = ["dezoo", "debugging", "animal", "sound", "effects", "sound effects", "sound-effects"]
 requires-python = ">=3.14"
 
 [project.optional-dependencies]
 devel = [
     "wheel",
     "requests",
-    "pytest"
+    "pytest",
+    "twine"
 ]
 
 [project.urls]
-Homepage = "https://github.com/mhennn/demal-package"
+Homepage = "https://github.com/mhennn/dezoo"
