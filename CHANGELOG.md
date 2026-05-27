@@ -21,3 +21,10 @@ This project follows semantic versioning.
 - Media Wav sound does not exist
 - Use importlib to make the media sound available on all other platforms
 - Fix minor issues
+
+---
+## [1.0.2] - 2026-05-27
+### Fixed
+- Fixed pyproject.toml to include the media wav file
+
+---
