@@ -35,3 +35,6 @@ This project follows semantic versioning.
 - Add cat sounds
 
 ---
+
+## [1.1.3] - 2026-05-27
+- Minor fix on pyproject description
