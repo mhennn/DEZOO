@@ -18,6 +18,12 @@ Debugging can get repetitive and dull. DEZOO makes it:
 - Works in any Python script
 - Optional fallback to normal logs
 
+### 🔊 Available Sound Effects
+- 🐶 Dog
+- 🦅 Birds
+- 😮‍💨 Whistle
+- 🐈 Cat
+
 #### Installation
 ```bash
 pip install dezoo

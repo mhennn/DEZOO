@@ -22,3 +22,9 @@ class DezooSystem:
         song_obj = sa.WaveObject.from_wave_file(str(whistle_path))
         play_song = song_obj.play()
         play_song.wait_done()
+
+    def debug_cat(self):
+        cat_path = files("dezoo_package.media").joinpath("Cat.wav")
+        song_obj = sa.WaveObject.from_wave_file(str(cat_path))
+        play_song = song_obj.play()
+        play_song.wait_done()
