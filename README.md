@@ -36,3 +36,7 @@ from dezoo_package import DezooSystem
 dezo = DezooSystem()
 dezo.debug_dog()
 ```
+
+---
+For checking the changelog of this package:
+> https://github.com/mhennn/DEZOO/blob/main/CHANGELOG.md
