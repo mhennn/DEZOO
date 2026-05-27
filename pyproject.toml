@@ -33,4 +33,4 @@ where = ["src"]
 dezoo_package = ["media/*.wav"]
 
 [project.urls]
-Github = "https://github.com/mhennn/dezoo"
+Project = "https://github.com/mhennn/dezoo"
