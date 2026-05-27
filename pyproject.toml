@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dezoo"
-version = "1.0.0"
+version = "1.0.1"
 description = "Package that keeps your debugging error FUN"
 readme = "README.md"
 authors = [
@@ -25,6 +25,9 @@ devel = [
     "pytest",
     "twine"
 ]
+
+[tool.setuptools.package-data]
+demal_package = ["media/*.wav"]
 
 [project.urls]
 Homepage = "https://github.com/mhennn/dezoo"
